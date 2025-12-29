@@ -48,7 +48,7 @@ You’ll see a menu like:
 3. Dictionary Lookup
 4. Exit
 
-📂 File Input Example
+File Input Example
 
 When choosing file input, enter either:
 A file name in the same directory
@@ -58,7 +58,7 @@ Or a full file path
 
 C:\Users\YourName\Documents\text.txt
 
-🧠 How It Works (Quick Overview)
+How It Works (Quick Overview)
 Text is cleaned (lowercased, punctuation removed)
 Words are analyzed using Python data structures
 Palindromes are detected using string slicing
@@ -88,5 +88,4 @@ This is a learning project.
 Feel free to fork, modify, or improve it.
 
 License
-
 MIT License — free to use, modify, and distribute.
